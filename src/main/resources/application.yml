@@ -1,0 +1,11 @@
+server:
+  port: 7008
+
+# bark\u63A8\u9001
+bark:
+  url: "https://api.the2333.com/"
+
+# \u9489\u9489\u63A8\u9001
+dingding:
+  secret: secret
+  token: token
